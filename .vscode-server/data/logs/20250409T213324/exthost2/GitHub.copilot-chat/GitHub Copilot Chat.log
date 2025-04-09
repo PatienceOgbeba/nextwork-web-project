@@ -10,3 +10,4 @@
 2025-04-09 21:34:00.142 [info] copilot token chat_enabled: true, sku: free_limited_copilot
 2025-04-09 21:34:00.142 [info] GitHub.vscode-pull-request-github extension is not yet activated.
 2025-04-09 21:34:00.203 [info] Registering default platform agent...
+2025-04-09 21:49:03.094 [info] Fetched model metadata in 724ms 75f62e6e-443f-4fa4-86a3-d2fb75182ef9
