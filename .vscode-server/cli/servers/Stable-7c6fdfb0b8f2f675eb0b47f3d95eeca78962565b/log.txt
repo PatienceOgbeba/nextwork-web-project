@@ -1,0 +1,61 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-3518608e-bfa9-4dd4-b53c-dfad318c928a
+Extension host agent listening on /tmp/code-3518608e-bfa9-4dd4-b53c-dfad318c928a
+
+[21:33:25] 
+
+
+
+
+[21:33:25] Extension host agent started.
+[21:33:25] Started initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+[21:33:25] Completed initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+[21:33:25] [<unknown>][730b342d][ExtensionHostConnection] New connection established.
+[21:33:25] [<unknown>][0eb1ae8f][ManagementConnection] New connection established.
+[21:33:25] [<unknown>][730b342d][ExtensionHostConnection] <27335> Launched Extension Host Process.
+[21:33:42] Downloaded extension to file:///home/ec2-user/.vscode-server/data/CachedExtensionVSIXs/4ff678b0-e480-4e39-b2df-720642d8f8f6
+[21:33:43] Installing extension: github.copilot-chat {
+  isApplicationScoped: false,
+  profileLocation: gr {
+    scheme: 'file',
+    authority: '',
+    path: '/home/ec2-user/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///home/ec2-user/.vscode-server/extensions/extensions.json',
+    _fsPath: '/home/ec2-user/.vscode-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.99.1', date: '2025-04-04T15:58:59.624Z' }
+}
+[21:33:43] Getting Manifest... github.copilot
+[21:33:43] Installing extension: github.copilot {
+  isApplicationScoped: false,
+  profileLocation: gr {
+    scheme: 'file',
+    authority: '',
+    path: '/home/ec2-user/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///home/ec2-user/.vscode-server/extensions/extensions.json',
+    _fsPath: '/home/ec2-user/.vscode-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.99.1', date: '2025-04-04T15:58:59.624Z' },
+  context: { dependecyOrPackExtensionInstall: true }
+}
+[21:33:44] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.26.3: github.copilot-chat
+[21:33:44] Renamed to /home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.26.3
+[21:33:45] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 1561ms.
+[21:33:45] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/github.copilot-1.297.0: github.copilot
+[21:33:45] Renamed to /home/ec2-user/.vscode-server/extensions/github.copilot-1.297.0
+[21:33:45] Extension installed successfully: github.copilot-chat file:///home/ec2-user/.vscode-server/extensions/extensions.json
+[21:33:45] Extension installed successfully: github.copilot file:///home/ec2-user/.vscode-server/extensions/extensions.json
+[21:33:48] [<unknown>][44f3a04f][ExtensionHostConnection] New connection established.
+[21:33:48] [<unknown>][376b2b11][ManagementConnection] New connection established.
+[21:33:48] [<unknown>][44f3a04f][ExtensionHostConnection] <27454> Launched Extension Host Process.
+[21:34:13] [<unknown>][0eb1ae8f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
